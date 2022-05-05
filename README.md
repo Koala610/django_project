@@ -2,6 +2,8 @@
 This is final project of django course. This app is backend application for blog. It has JWT Authentification, registration, social functions(making friends) etc.
 # Technologies
 In project were used Python Backend framework Django and Django REST Framework for providing functional for creating modern REST API. Simple JWT module provides JWT Token management.
+# Class Diagram
+![alt text](https://github.com/Koala610/django_project/blob/main/Class%20diagram.png)
 # Installation
 1. Install python 3.9 and pip
 2. Use "pip install -r requirements.txt" to get all needed python packages to your machine/virtual enviroment
